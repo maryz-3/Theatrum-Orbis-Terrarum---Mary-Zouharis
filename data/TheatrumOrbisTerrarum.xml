@@ -555,7 +555,30 @@
 
 <pb facs="#f019" />
 <ab>
-<lb />--Translation for Seq.20
+<lb />[TOP LEFT]
+<lb />EVROPAM, SIVE CEL
+<lb />TICAM VETEREM,
+<lb />[sic describere conabar Abrah, Ortelius]
+</ab>
+<ab>
+<lb />[BOTTOM LEFT]
+<lb />CLARISS, D, NICOLAO
+<lb />ROCCOXIO I,V,L, PATRICIO ANTVERP
+<lb />EIVSDEMQ. VRBIS SENATORI, HANC
+<lb />ANTIQV[AE] EVROP[AE], NOVAM TABVLAM,
+<lb />ABRAH.ORTELIVS DECOTISSIME DEDICAB.
+</ab>
+<ab>
+<lb />[BOTTOM RIGHT]
+<lb />CVM
+<lb />PRIVILE:
+<lb />GIO DECEN
+<lb />NALI, IMP.
+<lb />REGI[S] ET
+<lb />BRABANTI
+<lb />[AE] CANCEL
+<lb />LARIAE
+<lb />[1595.]
 </ab>
 
 <pb facs="#f020" />
@@ -902,8 +925,30 @@
 </ab>
 
 <pb facs="#f019" />
+<personalstmt> <!--Mary Zouharis worked on this section!--> </personalstmt>
 <ab>
-<lb />--TEI Translation for Seq.20
+<lb /><figure rend="left-top"><foreign xml:lang="la">EVROPAM, SIVE CEL
+<lb />TICAM VETEREM,
+<lb /><hi rend="italic">sic describere conabar <persName>Abrah, Ortelius</persName></hi></foreign></figure>
+</ab>
+<ab>
+<lb /><figure red="left-bottom"><foreign xml:lang="la">CLARISS, D, NICOLAO
+<lb />ROCCOXIO I,V,L, PATRICIO <placeName>ANTVERP</placeName>
+<lb />EIVSDEMQ. VRBIS SENATORI, HANC
+<lb />ANTIQV<note type="letter"><!--this is the werid ae letter-->AE</note> EVROP<note type="letter"><!--this is the weird ae letter-->AE</note>, NOVAM TABVLAM,
+<lb /><persName>ABRAH.ORTELIVS</persName> DECOTISSIME DEDICAB.</foreign></figure>
+</ab>
+<ab>
+<lb /><figure rend="right-bottom"><foreign xml:lang="la">CVM
+<lb />PRIVILE:
+<lb />GIO DECEN
+<lb />NALI, IMP.
+<lb />REGI<hi rend="italic">S</hi> ET
+<lb />BRABANTI
+<lb /><note type="letter"><!--this is the werid ae letter-->AE</note> CANCEL
+<lb />LARIAE</foreign>
+<lb /><hi rend="italic"><date when="1595">[1595.]</date></hi></figure>
+
 </ab>
 
 <pb facs="#f020" />
